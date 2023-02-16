@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/HafizhZR Teknik Informatika20/Semester 6 TI/MSIB/Suitmedia/Mobile Developer/UangKu/app/src/main/res/layout/activity_credit.xml" value="0.22826086956521738" />
+        <entry key="..\:/Documents/HafizhZR Teknik Informatika20/Semester 6 TI/MSIB/Suitmedia/Mobile Developer/UangKu/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Documents/HafizhZR Teknik Informatika20/Semester 6 TI/MSIB/Suitmedia/Mobile Developer/UangKu/app/src/main/res/layout/activity_move.xml" value="0.22826086956521738" />
+        <entry key="..\:/Documents/HafizhZR Teknik Informatika20/Semester 6 TI/MSIB/Suitmedia/Mobile Developer/UangKu/app/src/main/res/layout/activity_pendapatan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Documents/HafizhZR Teknik Informatika20/Semester 6 TI/MSIB/Suitmedia/Mobile Developer/UangKu/app/src/main/res/layout/activity_pengeluaran.xml" value="0.22826086956521738" />
+        <entry key="..\:/Documents/HafizhZR Teknik Informatika20/Semester 6 TI/MSIB/Suitmedia/Mobile Developer/UangKu/app/src/main/res/layout/activity_transaksi.xml" value="0.22826086956521738" />
+        <entry key="..\:/Documents/HafizhZR Teknik Informatika20/Semester 6 TI/MSIB/Suitmedia/Mobile Developer/UangKu/app/src/main/res/layout/list_adapter_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Dokumen/Semester 3/MULMED/KMMI/UangKu/app/src/main/res/layout/activity_credit.xml" value="0.25" />
+        <entry key="..\:/Dokumen/Semester 3/MULMED/KMMI/UangKu/app/src/main/res/layout/activity_main.xml" value="0.2753623188405797" />
+        <entry key="..\:/Dokumen/Semester 3/MULMED/KMMI/UangKu/app/src/main/res/layout/activity_move.xml" value="0.2753623188405797" />
+        <entry key="..\:/Dokumen/Semester 3/MULMED/KMMI/UangKu/app/src/main/res/layout/activity_pendapatan.xml" value="0.2753623188405797" />
+        <entry key="..\:/Dokumen/Semester 3/MULMED/KMMI/UangKu/app/src/main/res/layout/activity_pengeluaran.xml" value="0.2753623188405797" />
+        <entry key="..\:/Dokumen/Semester 3/MULMED/KMMI/UangKu/app/src/main/res/layout/activity_riwayat_keuangan.xml" value="0.2753623188405797" />
+        <entry key="..\:/Dokumen/Semester 3/MULMED/KMMI/UangKu/app/src/main/res/layout/activity_splash_screen.xml" value="0.21927083333333333" />
+        <entry key="..\:/Dokumen/Semester 3/MULMED/KMMI/UangKu/app/src/main/res/layout/activity_transaksi.xml" value="0.21927083333333333" />
+        <entry key="..\:/Dokumen/Semester 3/MULMED/KMMI/UangKu/app/src/main/res/layout/list_adapter_item.xml" value="0.21927083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
